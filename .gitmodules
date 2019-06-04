@@ -1,0 +1,3 @@
+[submodule "examples/sam-dashboard-ui"]
+	path = examples/sam-dashboard-ui
+	url = https://github.com/devhulk/sam-dashboard-ui
